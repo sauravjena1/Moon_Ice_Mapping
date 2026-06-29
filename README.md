@@ -8,7 +8,7 @@
 
 ##  Project Overview
 
-Automated detection and characterisation of subsurface water ice in lunar south polar regions using Chandrayaan-2 **DFSAR** (Dual Frequency Synthetic Aperture Radar) and **optical imagery**. System identifies optimal landing sites and computes safe rover traversal paths combining ice proximity with terrain safety constraints.
+Automated detection and characterisation of subsurface water ice in lunar south polar regions using Chandrayaan-2 **DFSAR** (Dual Frequency Synthetic Aperture Radar) and **optical imagery**. The system identifies optimal landing sites and computes safe rover traversal paths, combining proximity to ice with terrain safety constraints.
 
 **Primary Goal:** Locate and quantify subsurface ice deposits near Faustini, Haworth, and Shoemaker craters for future in-situ resource utilisation (ISRU).
 
