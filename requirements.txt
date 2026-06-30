@@ -1,0 +1,7 @@
+GDAL==3.6.0
+numpy==1.21.0
+scipy==1.7.0
+matplotlib==3.5.0
+rasterio==1.2.0
+scikit-image==0.19.0
+jupyter==1.0.0
