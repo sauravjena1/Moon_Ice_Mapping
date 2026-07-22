@@ -372,13 +372,6 @@ Open issues for:
 
 ---
 
-## Contact
-
-- **GitHub:** @sauravjena1
-- **Email:** 2404057@kiit.ac.in
-- **KIIT Roll:** 2404057
-
----
 
 ## References
 
@@ -387,7 +380,3 @@ Open issues for:
 3. Smith, D. E., et al. (2010). The lunar orbiter laser altimeter investigation on the lunar reconnaissance orbiter mission. *Space Science Reviews*.
 
 ---
-
-**Last Updated:** June 29, 2026  
-**Hackathon Date:** ~July 29, 2026  
-**Days Remaining:** ~30 days
